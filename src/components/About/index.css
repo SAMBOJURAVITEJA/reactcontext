@@ -1,0 +1,14 @@
+.img1 {
+  width: 200px;
+  height: 200px;
+}
+
+.lightAbout {
+  background-color: #ffffff;
+  color: #334155;
+}
+
+.darkAbout {
+  background-color: #000000;
+  color: #ffffff;
+}

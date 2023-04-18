@@ -1,0 +1,29 @@
+.bg-container {
+  font-weight: bold;
+  font-family: 'Roboto';
+  height: 100vh;
+}
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.aboutContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.lightHome {
+  background-color: #ffffff;
+  color: #334155;
+}
+
+.darkHome {
+  background-color: #000000;
+  color: #ffffff;
+}

@@ -1,0 +1,48 @@
+.NavbarContainer {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.Link1 {
+  text-decoration: none;
+}
+.Link2 {
+  text-decoration: none;
+  color: #ffffff;
+}
+.content-container2 {
+  text-decoration: none;
+  list-style-type: none;
+  padding-left: 0px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+  color: #ffffff;
+}
+.content-container1 {
+  text-decoration: none;
+  list-style-type: none;
+  padding-left: 0px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+.img2 {
+  width: 25px;
+}
+.dark {
+  color: #ffffff;
+  background-color: #1e293b;
+}
+.light {
+  color: black;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
